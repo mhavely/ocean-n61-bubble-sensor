@@ -9,6 +9,8 @@ All code files for Group 1's Spring 2025 Bubble Sensor project.
 - "main.py" = Python code file used for sampling
 - "test_data2.csv" = initial data collected during first test deployment
 - "lid.stl" = CAD file for 3d printed housing
+- "parts_list.md" = list of parts used to construct sensor with embedded links to purchase sites
+- "user_manual.md" = a brief set of instructions on how to deploy the bubble sensor
 
 **Packages**
 - "tsl2591.py" = Light Sensor package
