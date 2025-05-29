@@ -1,4 +1,4 @@
-***Parts List***
+# Parts List
 
 - RGB Color Sensor with IR filter and White LED - [TCS34725](https://www.adafruit.com/product/1334)
 - Microcontroller: [Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) - Loose Headers
