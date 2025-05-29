@@ -7,9 +7,7 @@
 - RGB LED
 - YSI Exo Sonde
 - Wires
-- [Waterproofing epoxy](https://www.loctiteproducts.com/products/central-pdp.html/loctite-epoxy-instant-mix-5min/SAP_0201OAL029U6/variation/1365868.html) 
-  -  Marine sealant
-  - Heat shrink
+- [Waterproofing epoxy](https://www.loctiteproducts.com/products/central-pdp.html/loctite-epoxy-instant-mix-5min/SAP_0201OAL029U6/variation/1365868.html)
 - PVC piping connectors
 - PVC straight pipes (1inch diameter)
 - Floats 
