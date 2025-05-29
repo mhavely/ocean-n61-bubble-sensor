@@ -8,8 +8,8 @@
 - YSI Exo Sonde
 - Wires
 - Waterproofing epoxy 
-- Marine sealant
-- Heat shrink
+  -  Marine sealant
+  - Heat shrink
 - PVC piping connectors
 - PVC straight pipes (1inch diameter)
 - Floats 
